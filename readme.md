@@ -1,6 +1,6 @@
-# Power Pwn
+# Powerful
 
-Power Pwn is a demo showing how to repurpose Microsoft-trusted executables, service accounts and cloud services to power a malware operation.
+Powerful is a demo showing how to maintain persistency on Power Platform by installing an automation factory that creates, executes and deletes arbitrary commands.
 
 <a href="https://powerautomate.microsoft.com/en-us/robotic-process-automation/"><img src="https://docs.microsoft.com/en-us/power-pages/media/overview/power-platform.png" alt="Power Pwn" width="500" height="250" /></a>
 
